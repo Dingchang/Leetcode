@@ -8,10 +8,10 @@
 <br>
 
 ## Hash Table
-| Number  |               Problem                                      |   Solution                            |
-|:---:|:----------------------------------------------------------------:|:-------------------------------------:|
-|001| [Two Sum](https://leetcode.com/problems/two-sum/) |
-[C Solution](./Hash Table/1. Two Sum/C Solution.md)|
+| Number  | Difficulty | Problem | Solution |
+|:-------:|:----------:|:-------:|:--------:|
+| 001 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [C Solution](https://github.com/Dingchang/Leetcode/blob/master/Hash%20Table/1.%20Two%20Sum/C%20Solution.md) <br> [Java Solution](https://github.com/Dingchang/Leetcode/blob/master/Hash%20Table/1.%20Two%20Sum/Java%20Solution.md) <br> [Python Solution](https://github.com/Dingchang/Leetcode/blob/master/Hash%20Table/1.%20Two%20Sum/Python%20Solution.md)|
 ## Binary search
-| Number  |               Problem                                      |   Solution                            |
-|:---:|:----------------------------------------------------------------:|:-------------------------------------:|
+| Number  | Difficulty | Problem | Solution |
+|:-------:|:----------:|:-------:|:--------:|
+| 035 | Easy | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C Solution] (https://github.com/Dingchang/Leetcode/blob/master/Binary%20Search/35.%20Search%20Insert%20Position/C%20Solution.md) |
