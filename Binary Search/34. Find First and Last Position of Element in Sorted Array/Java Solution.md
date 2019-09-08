@@ -1,4 +1,4 @@
-# First and Last Position of Element in Sorted Array
+# 34. First and Last Position of Element in Sorted Array
 
 ## Binary Search
 ```
