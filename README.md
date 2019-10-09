@@ -12,7 +12,8 @@
 |:-------:|:----------:|:-------:|:--------:|
 | 704 | Easy | [Binary Search](https://leetcode.com/problems/binary-search/) | [C Solution](https://github.com/Dingchang/Leetcode/blob/master/Binary%20Search/704.%20Binary%20Search/C%20Solution.md) |
 | 035 | Easy | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C Solution](https://github.com/Dingchang/Leetcode/blob/master/Binary%20Search/35.%20Search%20Insert%20Position/C%20Solution.md) |
-| 852 | Easy | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java Solution](https://github.com/Dingchang/Leetcode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain/Java%20Solution.md) | 
+| 852 | Easy | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java Solution](https://github.com/Dingchang/Leetcode/blob/master/Binary%20Search/852.%20Peak%20Index%20in%20a%20Mountain%20Array/Java%20Solution.md) |
+| 033 | Medium | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java Solution](https://github.com/Dingchang/Leetcode/blob/master/Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array/Java%20Solution.md) | 
 | 034 | Medium | [First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java Solution](https://github.com/Dingchang/Leetcode/blob/master/Binary%20Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/Java%20Solution.md) |
 
 ## Hash Table
