@@ -27,3 +27,8 @@
 |:-------:|:----------:|:-------:|:--------:|
 | 001 | Easy | [Two Sum](https://leetcode.com/problems/two-sum/) | [C Solution](https://github.com/Dingchang/Leetcode/blob/master/Hash%20Table/1.%20Two%20Sum/C%20Solution.md) <br> [Java Solution](https://github.com/Dingchang/Leetcode/blob/master/Hash%20Table/1.%20Two%20Sum/Java%20Solution.md) <br> [Python Solution](https://github.com/Dingchang/Leetcode/blob/master/Hash%20Table/1.%20Two%20Sum/Python%20Solution.md)|
 | 981 | Medium | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Java Solution](https://github.com/Dingchang/Leetcode/blob/master/Hash%20Table/981.%20Time%20Based%20Key-Value%20Store/Java%20Solution.md) |
+
+## Linked List
+| Number  | Difficulty | Problem | Solution |
+|:-------:|:----------:|:-------:|:--------:|
+| 021 | Easy | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python Solution]() |
